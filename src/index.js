@@ -1,5 +1,6 @@
 import "./style.css";
 import { format, add } from "date-fns";
+import { temp } from "./temp.js";
 
 const weekContainer = document.querySelector(".date-container");
 
@@ -10,3 +11,4 @@ for (let i = 0; i < 7; i++) {
   weekDay.classList.add("date");
   weekContainer.appendChild(weekDay);
 }
+temp();
