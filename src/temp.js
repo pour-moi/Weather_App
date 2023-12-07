@@ -33,6 +33,24 @@ export function getWeatherIcon(weatherCondition) {
   return weatherIcons[weatherCondition];
 }
 
+export function changeBackgroundColor(weatherCondition) {
+  const weatherColors = {
+    Sunny: "#FFD700",
+    Cloudy: "#D3D3D3",
+    Rainy: "#00008B",
+    Snowy: "#87CEEB",
+    Windy: "#808080",
+    Foggy: "#696969",
+    Hazy: "#778899",
+    Thunderstorm: "#483D8B",
+    "Partly cloudy": "#708090",
+    "Mostly Sunny": "#ADD8E6",
+    "Patchy rain possible": "#4682B4",
+  };
+
+  document.body.style.backgroundColor = weatherColors[weatherCondition];
+}
+
 export async function temp() {
   try {
     const response = await fetch(apiUrl());
@@ -45,6 +63,8 @@ export async function temp() {
     currentTemp.textContent = `${data.current.temp_c}°`;
     condition.textContent = `${data.current.condition.text}`;
     icons.src = weatherAtmo;
+
+    changeBackgroundColor(data.current.condition.text);
   } catch (error) {}
 }
 temp();
