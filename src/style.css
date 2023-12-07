@@ -7,9 +7,33 @@ body {
   src: url(../fonts/SFMonoRegular.otf);
 }
 
+@font-face {
+  font-family: "Mont";
+  src: url(../fonts/Mont-HeavyDEMO.otf);
+}
+
+@font-face {
+  font-family: montRegular;
+  src: url(../fonts/MADE\ TOMMY\ Regular_PERSONAL\ USE.otf);
+}
+
 img {
   margin: 0;
   padding: 0;
+  filter: drop-shadow(9px 9px 3px rgba(0, 0, 0, 0.7));
+}
+
+input {
+  border-style: none;
+  background-color: #00cdff;
+}
+
+.condition {
+  font-family: Mont;
+}
+
+.date {
+  font-family: montRegular;
 }
 
 .location {
@@ -27,7 +51,7 @@ img {
   justify-content: center;
 }
 
-.city {
+#city {
   font-family: SF;
 }
 
@@ -39,6 +63,7 @@ img {
 .cloud {
   margin-top: 3em;
   width: 13em;
+  /* box-shadow: 0 4px 0.4px -2px gray; */
 }
 
 /* date */
@@ -58,7 +83,3 @@ img {
 .weathers {
   width: 7.5em;
 }
-/* .date {
-  display: flex;
-  align-items: flex-end;
-} */
