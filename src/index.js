@@ -3,9 +3,8 @@ import { format, add } from "date-fns";
 import { temp, apiKey, location, getWeatherIcon } from "./temp.js";
 
 temp();
-
 const weekContainer = document.querySelector(".date-container");
-const nextDaysUrl = `http://api.weatherapi.com/v1/forecast.json?key=${apiKey}&q=${location}&days=5`;
+const nextDaysUrl = `http://api.weatherapi.com/v1/forecast.json?key=${apiKey}&q=${location()}&days=5`;
 
 for (let i = 0; i < 5; i++) {
   let date = add(new Date(), { days: i });
@@ -17,12 +16,7 @@ for (let i = 0; i < 5; i++) {
 
 async function getNextDaysWeather() {
   const response = await fetch(nextDaysUrl);
-  if (!response.ok) {
-    console.error(`API request failed with status ${response.status}`);
-    return;
-  }
   const datas = await response.json();
-  console.log(datas);
 
   const forecast = datas.forecast.forecastday;
   const weathers = document.querySelector(".icon-container");

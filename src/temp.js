@@ -1,6 +1,19 @@
 export const apiKey = "fe94effad13648a2a69224624230612";
-export const location = "Addis Abeba";
-const apiUrl = `http://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${location}`;
+document
+  .getElementById("city")
+  .addEventListener("input", async function (event) {
+    this.value = event.target.value;
+    await temp();
+  });
+const locationElement = document.getElementById("city");
+
+export function location() {
+  return locationElement.value;
+}
+
+export function apiUrl() {
+  return `http://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${location()}`;
+}
 
 export function getWeatherIcon(weatherCondition) {
   const weatherIcons = {
@@ -22,9 +35,8 @@ export function getWeatherIcon(weatherCondition) {
 
 export async function temp() {
   try {
-    const response = await fetch(apiUrl);
+    const response = await fetch(apiUrl());
     const data = await response.json();
-    console.log(data);
     const currentTemp = document.getElementById("currenttemp");
     const condition = document.querySelector(".condition");
     const icons = document.querySelector(".cloud");
