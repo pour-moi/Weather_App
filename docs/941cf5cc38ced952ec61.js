@@ -1,5 +1,6 @@
 import "./style.css";
-import { format, add } from "date-fns";
+const { format, add } = require("date-fns");
+import { format, add } from "https://cdn.skypack.dev/date-fns";
 import { temp, apiKey, location, getWeatherIcon } from "./temp.js";
 
 temp();
