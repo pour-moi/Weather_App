@@ -31,7 +31,7 @@ img {
   font-family: SF;
 }
 
-.current-temprature {
+#currenttemp {
   font-size: 4em;
   font-family: SF;
 }
