@@ -430,106 +430,6 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
-/***/ "./weather_icons/18545250741556274015.svg":
-/*!************************************************!*\
-  !*** ./weather_icons/18545250741556274015.svg ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"52238529d0ddb48669d59419957b2ced.svg\");\n\n//# sourceURL=webpack://weather_app/./weather_icons/18545250741556274015.svg?");
-
-/***/ }),
-
-/***/ "./weather_icons/Raining.svg":
-/*!***********************************!*\
-  !*** ./weather_icons/Raining.svg ***!
-  \***********************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"f3fff47013c5a8ad2e4ddaf934740e06.svg\");\n\n//# sourceURL=webpack://weather_app/./weather_icons/Raining.svg?");
-
-/***/ }),
-
-/***/ "./weather_icons/Thunder.svg":
-/*!***********************************!*\
-  !*** ./weather_icons/Thunder.svg ***!
-  \***********************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"91d0b247ca39701776c57c82a89b563f.svg\");\n\n//# sourceURL=webpack://weather_app/./weather_icons/Thunder.svg?");
-
-/***/ }),
-
-/***/ "./weather_icons/Windy.svg":
-/*!*********************************!*\
-  !*** ./weather_icons/Windy.svg ***!
-  \*********************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"12473cd3997f489e1f0a10c73f1d2391.svg\");\n\n//# sourceURL=webpack://weather_app/./weather_icons/Windy.svg?");
-
-/***/ }),
-
-/***/ "./weather_icons/cloud+snow.svg":
-/*!**************************************!*\
-  !*** ./weather_icons/cloud+snow.svg ***!
-  \**************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"099b56cb0a927c1e1a7423f534e123c0.svg\");\n\n//# sourceURL=webpack://weather_app/./weather_icons/cloud+snow.svg?");
-
-/***/ }),
-
-/***/ "./weather_icons/cloud_sunnny.svg":
-/*!****************************************!*\
-  !*** ./weather_icons/cloud_sunnny.svg ***!
-  \****************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"a0cf93651e1e53675421afc4bbbde8d2.svg\");\n\n//# sourceURL=webpack://weather_app/./weather_icons/cloud_sunnny.svg?");
-
-/***/ }),
-
-/***/ "./weather_icons/cloudy.svg":
-/*!**********************************!*\
-  !*** ./weather_icons/cloudy.svg ***!
-  \**********************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"45504c81864f1092e63ea3c89bcced0c.svg\");\n\n//# sourceURL=webpack://weather_app/./weather_icons/cloudy.svg?");
-
-/***/ }),
-
-/***/ "./weather_icons/rain+sunny.svg":
-/*!**************************************!*\
-  !*** ./weather_icons/rain+sunny.svg ***!
-  \**************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"1a32a373575a71de8eb3d3ee301235a6.svg\");\n\n//# sourceURL=webpack://weather_app/./weather_icons/rain+sunny.svg?");
-
-/***/ }),
-
-/***/ "./weather_icons/sunny+cloud.svg":
-/*!***************************************!*\
-  !*** ./weather_icons/sunny+cloud.svg ***!
-  \***************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"2e5cc3547614c6daa00725229251688d.svg\");\n\n//# sourceURL=webpack://weather_app/./weather_icons/sunny+cloud.svg?");
-
-/***/ }),
-
-/***/ "./weather_icons/sunny.svg":
-/*!*********************************!*\
-  !*** ./weather_icons/sunny.svg ***!
-  \*********************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"f0664df171997a9cf5f2c4bf8331b2ae.svg\");\n\n//# sourceURL=webpack://weather_app/./weather_icons/sunny.svg?");
-
-/***/ }),
-
 /***/ "./src/style.css":
 /*!***********************!*\
   !*** ./src/style.css ***!
@@ -647,6 +547,106 @@ eval("module.exports = __webpack_require__.p + \"a1c041a8d8e27fc771db.otf\";\n\n
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("module.exports = __webpack_require__.p + \"1d07f933cdf138950a80.otf\";\n\n//# sourceURL=webpack://weather_app/./fonts/SFMonoRegular.otf?");
+
+/***/ }),
+
+/***/ "./weather_icons/18545250741556274015.svg":
+/*!************************************************!*\
+  !*** ./weather_icons/18545250741556274015.svg ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"52238529d0ddb48669d5.svg\";\n\n//# sourceURL=webpack://weather_app/./weather_icons/18545250741556274015.svg?");
+
+/***/ }),
+
+/***/ "./weather_icons/Raining.svg":
+/*!***********************************!*\
+  !*** ./weather_icons/Raining.svg ***!
+  \***********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"f3fff47013c5a8ad2e4d.svg\";\n\n//# sourceURL=webpack://weather_app/./weather_icons/Raining.svg?");
+
+/***/ }),
+
+/***/ "./weather_icons/Thunder.svg":
+/*!***********************************!*\
+  !*** ./weather_icons/Thunder.svg ***!
+  \***********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"91d0b247ca39701776c5.svg\";\n\n//# sourceURL=webpack://weather_app/./weather_icons/Thunder.svg?");
+
+/***/ }),
+
+/***/ "./weather_icons/Windy.svg":
+/*!*********************************!*\
+  !*** ./weather_icons/Windy.svg ***!
+  \*********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"12473cd3997f489e1f0a.svg\";\n\n//# sourceURL=webpack://weather_app/./weather_icons/Windy.svg?");
+
+/***/ }),
+
+/***/ "./weather_icons/cloud+snow.svg":
+/*!**************************************!*\
+  !*** ./weather_icons/cloud+snow.svg ***!
+  \**************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"099b56cb0a927c1e1a74.svg\";\n\n//# sourceURL=webpack://weather_app/./weather_icons/cloud+snow.svg?");
+
+/***/ }),
+
+/***/ "./weather_icons/cloud_sunnny.svg":
+/*!****************************************!*\
+  !*** ./weather_icons/cloud_sunnny.svg ***!
+  \****************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"a0cf93651e1e53675421.svg\";\n\n//# sourceURL=webpack://weather_app/./weather_icons/cloud_sunnny.svg?");
+
+/***/ }),
+
+/***/ "./weather_icons/cloudy.svg":
+/*!**********************************!*\
+  !*** ./weather_icons/cloudy.svg ***!
+  \**********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"45504c81864f1092e63e.svg\";\n\n//# sourceURL=webpack://weather_app/./weather_icons/cloudy.svg?");
+
+/***/ }),
+
+/***/ "./weather_icons/rain+sunny.svg":
+/*!**************************************!*\
+  !*** ./weather_icons/rain+sunny.svg ***!
+  \**************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"1a32a373575a71de8eb3.svg\";\n\n//# sourceURL=webpack://weather_app/./weather_icons/rain+sunny.svg?");
+
+/***/ }),
+
+/***/ "./weather_icons/sunny+cloud.svg":
+/*!***************************************!*\
+  !*** ./weather_icons/sunny+cloud.svg ***!
+  \***************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"2e5cc3547614c6daa007.svg\";\n\n//# sourceURL=webpack://weather_app/./weather_icons/sunny+cloud.svg?");
+
+/***/ }),
+
+/***/ "./weather_icons/sunny.svg":
+/*!*********************************!*\
+  !*** ./weather_icons/sunny.svg ***!
+  \*********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"f0664df171997a9cf5f2.svg\";\n\n//# sourceURL=webpack://weather_app/./weather_icons/sunny.svg?");
 
 /***/ }),
 
