@@ -6,7 +6,7 @@ module.exports = {
   entry: "./src/index.js",
   output: {
     filename: "main.js",
-    path: path.resolve(__dirname, "docs"), // Change this to 'docs'
+    path: path.resolve(__dirname, "docs"), 
   },
   plugins: [
     new HtmlWebpackPlugin({
@@ -18,6 +18,10 @@ module.exports = {
       {
         test: /\.css$/i,
         use: ["style-loader", "css-loader"],
+      },
+      {
+        test: /\.svg$/,
+        use: ['file-loader'] // Add this rule
       },
     ],
   },
