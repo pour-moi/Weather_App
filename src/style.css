@@ -25,7 +25,7 @@ img {
 
 input {
   border-style: none;
-  background-color: #00cdff;
+  background: none;
 }
 
 .condition {
@@ -52,7 +52,7 @@ input {
 }
 
 #city {
-  font-family: SF;
+  font-family: Mont;
 }
 
 #currenttemp {
