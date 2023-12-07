@@ -30,20 +30,20 @@ export function apiUrl() {
 
 export function getWeatherIcon(weatherCondition) {
   const weatherIcons = {
-    Sunny: "../weather_icons/sunny.svg",
-    Cloudy: "../weather_icons/cloudy.svg",
-    Rainy: "../weather_icons/Raining.svg",
-    Snowy: "../weather_icons/cloud+snow.svg",
-    Windy: "../weather_icons/Windy.svg",
-    Foggy: "../weather_icons/cloudy.svg",
-    Hazy: "../weather_icons/cloud+snow.svg",
-    Thunderstorm: "../weather_icons/Thunder.svg",
-    "Partly cloudy": "../weather_icons/cloud_sunnny.svg",
-    "Mostly Sunny": "../weather_icons/sunny+cloud.svg",
-    "Patchy rain possible": "../weather_icons/rain+sunny.svg",
+    Sunny: sunnyIcon,
+    Cloudy: cloudyIcon,
+    Rainy: rainyIcon,
+    Snowy: snowyIcon,
+    Windy: windyIcon,
+    Foggy: foggyIcon,
+    Hazy: hazyIcon,
+    Thunderstorm: thunderstormIcon,
+    "Partly cloudy": partlyCloudyIcon,
+    "Mostly Sunny": mostlySunnyIcon,
+    "Patchy rain possible": patchyRainPossibleIcon,
   };
 
-  return weatherIcons[weatherCondition] || "../weather_icons/cloudy.svg";
+  return weatherIcons[weatherCondition] || cloudyIcon;
 }
 
 export function changeBackgroundColor(weatherCondition) {
