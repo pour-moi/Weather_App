@@ -4,7 +4,7 @@ import { temp, apiKey, location, getWeatherIcon } from "./temp.js";
 
 temp();
 const weekContainer = document.querySelector(".date-container");
-const nextDaysUrl = `http://api.weatherapi.com/v1/forecast.json?key=${apiKey}&q=${location()}&days=5`;
+const nextDaysUrl = `https://api.weatherapi.com/v1/forecast.json?key=${apiKey}&q=${location()}&days=5`;
 
 for (let i = 0; i < 5; i++) {
   let date = add(new Date(), { days: i });
