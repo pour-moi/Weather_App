@@ -6,9 +6,12 @@ export async function temp() {
   try {
     const response = await fetch(apiUrl);
     const data = await response.json();
-    const currentTemp = document.querySelector(".current-temprature");
+    console.log(data);
+    const currentTemp = document.getElementById("currenttemp");
+    const condition = document.querySelector(".condition");
 
-    currentTemp.textContent = `${data.temp_current_c}`;
+    currentTemp.textContent = `${data.current.temp_c}°`;
+    condition.textContent = `${data.current.condition.text}`;
   } catch (error) {}
 }
 temp();
