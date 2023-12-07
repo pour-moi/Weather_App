@@ -430,6 +430,96 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
+/***/ "./weather_icons/Raining.svg":
+/*!***********************************!*\
+  !*** ./weather_icons/Raining.svg ***!
+  \***********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"f3fff47013c5a8ad2e4ddaf934740e06.svg\");\n\n//# sourceURL=webpack://weather_app/./weather_icons/Raining.svg?");
+
+/***/ }),
+
+/***/ "./weather_icons/Thunder.svg":
+/*!***********************************!*\
+  !*** ./weather_icons/Thunder.svg ***!
+  \***********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"91d0b247ca39701776c57c82a89b563f.svg\");\n\n//# sourceURL=webpack://weather_app/./weather_icons/Thunder.svg?");
+
+/***/ }),
+
+/***/ "./weather_icons/Windy.svg":
+/*!*********************************!*\
+  !*** ./weather_icons/Windy.svg ***!
+  \*********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"12473cd3997f489e1f0a10c73f1d2391.svg\");\n\n//# sourceURL=webpack://weather_app/./weather_icons/Windy.svg?");
+
+/***/ }),
+
+/***/ "./weather_icons/cloud+snow.svg":
+/*!**************************************!*\
+  !*** ./weather_icons/cloud+snow.svg ***!
+  \**************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"099b56cb0a927c1e1a7423f534e123c0.svg\");\n\n//# sourceURL=webpack://weather_app/./weather_icons/cloud+snow.svg?");
+
+/***/ }),
+
+/***/ "./weather_icons/cloud_sunnny.svg":
+/*!****************************************!*\
+  !*** ./weather_icons/cloud_sunnny.svg ***!
+  \****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"a0cf93651e1e53675421afc4bbbde8d2.svg\");\n\n//# sourceURL=webpack://weather_app/./weather_icons/cloud_sunnny.svg?");
+
+/***/ }),
+
+/***/ "./weather_icons/cloudy.svg":
+/*!**********************************!*\
+  !*** ./weather_icons/cloudy.svg ***!
+  \**********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"45504c81864f1092e63ea3c89bcced0c.svg\");\n\n//# sourceURL=webpack://weather_app/./weather_icons/cloudy.svg?");
+
+/***/ }),
+
+/***/ "./weather_icons/rain+sunny.svg":
+/*!**************************************!*\
+  !*** ./weather_icons/rain+sunny.svg ***!
+  \**************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"1a32a373575a71de8eb3d3ee301235a6.svg\");\n\n//# sourceURL=webpack://weather_app/./weather_icons/rain+sunny.svg?");
+
+/***/ }),
+
+/***/ "./weather_icons/sunny+cloud.svg":
+/*!***************************************!*\
+  !*** ./weather_icons/sunny+cloud.svg ***!
+  \***************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"2e5cc3547614c6daa00725229251688d.svg\");\n\n//# sourceURL=webpack://weather_app/./weather_icons/sunny+cloud.svg?");
+
+/***/ }),
+
+/***/ "./weather_icons/sunny.svg":
+/*!*********************************!*\
+  !*** ./weather_icons/sunny.svg ***!
+  \*********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"f0664df171997a9cf5f2c4bf8331b2ae.svg\");\n\n//# sourceURL=webpack://weather_app/./weather_icons/sunny.svg?");
+
+/***/ }),
+
 /***/ "./src/style.css":
 /*!***********************!*\
   !*** ./src/style.css ***!
@@ -516,7 +606,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sty
   \*********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"apiKey\": () => (/* binding */ apiKey),\n/* harmony export */   \"apiUrl\": () => (/* binding */ apiUrl),\n/* harmony export */   \"changeBackgroundColor\": () => (/* binding */ changeBackgroundColor),\n/* harmony export */   \"getWeatherIcon\": () => (/* binding */ getWeatherIcon),\n/* harmony export */   \"location\": () => (/* binding */ location),\n/* harmony export */   \"temp\": () => (/* binding */ temp)\n/* harmony export */ });\nconst apiKey = \"fe94effad13648a2a69224624230612\";\ndocument\n  .getElementById(\"city\")\n  .addEventListener(\"input\", async function (event) {\n    this.value = event.target.value;\n    await temp();\n  });\nconst locationElement = document.getElementById(\"city\");\n\nfunction location() {\n  return locationElement.value;\n}\n\nfunction apiUrl() {\n  return `http://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${location()}`;\n}\n\nfunction getWeatherIcon(weatherCondition) {\n  const weatherIcons = {\n    Sunny: \"../weather_icons/sunny.svg\",\n    Cloudy: \"../weather_icons/cloudy.svg\",\n    Rainy: \"../weather_icons/Raining.svg\",\n    Snowy: \"../weather_icons/cloud+snow.svg\",\n    Windy: \"../weather_icons/Windy.svg\",\n    Foggy: \"../weather_icons/cloudy.svg\",\n    Hazy: \"../weather_icons/cloud+snow.svg\",\n    Thunderstorm: \"../weather_icons/Thunder.svg\",\n    \"Partly cloudy\": \"../weather_icons/cloud_sunnny.svg\",\n    \"Mostly Sunny\": \"../weather_icons/sunny+cloud.svg\",\n    \"Patchy rain possible\": \"../weather_icons/rain+sunny.svg\",\n  };\n\n  return weatherIcons[weatherCondition] || \"../weather_icons/cloudy.svg\";\n}\n\nfunction changeBackgroundColor(weatherCondition) {\n  const weatherColors = {\n    Sunny: \"#FFD700\",\n    Cloudy: \"#D3D3D3\",\n    Rainy: \"#00008B\",\n    Snowy: \"#87CEEB\",\n    Windy: \"#808080\",\n    Foggy: \"#696969\",\n    Hazy: \"#778899\",\n    Thunderstorm: \"#483D8B\",\n    \"Partly cloudy\": \"#708090\",\n    \"Mostly Sunny\": \"#ADD8E6\",\n    \"Patchy rain possible\": \"#4682B4\",\n  };\n\n  document.body.style.backgroundColor = weatherColors[weatherCondition];\n}\n\nasync function temp() {\n  try {\n    const response = await fetch(apiUrl());\n    const data = await response.json();\n    const currentTemp = document.getElementById(\"currenttemp\");\n    const condition = document.querySelector(\".condition\");\n    const icons = document.querySelector(\".cloud\");\n    const weatherAtmo = getWeatherIcon(data.current.condition.text);\n\n    currentTemp.textContent = `${data.current.temp_c}°`;\n    condition.textContent = `${data.current.condition.text}`;\n    icons.src = weatherAtmo;\n\n    changeBackgroundColor(data.current.condition.text);\n  } catch (error) {}\n}\ntemp();\n\n\n//# sourceURL=webpack://weather_app/./src/temp.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"apiKey\": () => (/* binding */ apiKey),\n/* harmony export */   \"apiUrl\": () => (/* binding */ apiUrl),\n/* harmony export */   \"changeBackgroundColor\": () => (/* binding */ changeBackgroundColor),\n/* harmony export */   \"getWeatherIcon\": () => (/* binding */ getWeatherIcon),\n/* harmony export */   \"location\": () => (/* binding */ location),\n/* harmony export */   \"temp\": () => (/* binding */ temp)\n/* harmony export */ });\n/* harmony import */ var _weather_icons_sunny_svg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../weather_icons/sunny.svg */ \"./weather_icons/sunny.svg\");\n/* harmony import */ var _weather_icons_cloudy_svg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../weather_icons/cloudy.svg */ \"./weather_icons/cloudy.svg\");\n/* harmony import */ var _weather_icons_Raining_svg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../weather_icons/Raining.svg */ \"./weather_icons/Raining.svg\");\n/* harmony import */ var _weather_icons_cloud_snow_svg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../weather_icons/cloud+snow.svg */ \"./weather_icons/cloud+snow.svg\");\n/* harmony import */ var _weather_icons_Windy_svg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../weather_icons/Windy.svg */ \"./weather_icons/Windy.svg\");\n/* harmony import */ var _weather_icons_Thunder_svg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../weather_icons/Thunder.svg */ \"./weather_icons/Thunder.svg\");\n/* harmony import */ var _weather_icons_cloud_sunnny_svg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../weather_icons/cloud_sunnny.svg */ \"./weather_icons/cloud_sunnny.svg\");\n/* harmony import */ var _weather_icons_sunny_cloud_svg__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../weather_icons/sunny+cloud.svg */ \"./weather_icons/sunny+cloud.svg\");\n/* harmony import */ var _weather_icons_rain_sunny_svg__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../weather_icons/rain+sunny.svg */ \"./weather_icons/rain+sunny.svg\");\n\n\n\n\n\n\n\n\n\n\n\n\nconst apiKey = \"fe94effad13648a2a69224624230612\";\ndocument\n  .getElementById(\"city\")\n  .addEventListener(\"input\", async function (event) {\n    this.value = event.target.value;\n    await temp();\n  });\nconst locationElement = document.getElementById(\"city\");\n\nfunction location() {\n  return locationElement.value;\n}\n\nfunction apiUrl() {\n  return `http://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${location()}`;\n}\n\nfunction getWeatherIcon(weatherCondition) {\n  const weatherIcons = {\n    Sunny: \"../weather_icons/sunny.svg\",\n    Cloudy: \"../weather_icons/cloudy.svg\",\n    Rainy: \"../weather_icons/Raining.svg\",\n    Snowy: \"../weather_icons/cloud+snow.svg\",\n    Windy: \"../weather_icons/Windy.svg\",\n    Foggy: \"../weather_icons/cloudy.svg\",\n    Hazy: \"../weather_icons/cloud+snow.svg\",\n    Thunderstorm: \"../weather_icons/Thunder.svg\",\n    \"Partly cloudy\": \"../weather_icons/cloud_sunnny.svg\",\n    \"Mostly Sunny\": \"../weather_icons/sunny+cloud.svg\",\n    \"Patchy rain possible\": \"../weather_icons/rain+sunny.svg\",\n  };\n\n  return weatherIcons[weatherCondition] || \"../weather_icons/cloudy.svg\";\n}\n\nfunction changeBackgroundColor(weatherCondition) {\n  const weatherColors = {\n    Sunny: \"#FFD700\",\n    Cloudy: \"#D3D3D3\",\n    Rainy: \"#00008B\",\n    Snowy: \"#87CEEB\",\n    Windy: \"#808080\",\n    Foggy: \"#696969\",\n    Hazy: \"#778899\",\n    Thunderstorm: \"#483D8B\",\n    \"Partly cloudy\": \"#708090\",\n    \"Mostly Sunny\": \"#ADD8E6\",\n    \"Patchy rain possible\": \"#4682B4\",\n  };\n\n  document.body.style.backgroundColor = weatherColors[weatherCondition];\n}\n\nasync function temp() {\n  try {\n    const response = await fetch(apiUrl());\n    const data = await response.json();\n    const currentTemp = document.getElementById(\"currenttemp\");\n    const condition = document.querySelector(\".condition\");\n    const icons = document.querySelector(\".cloud\");\n    const weatherAtmo = getWeatherIcon(data.current.condition.text);\n\n    currentTemp.textContent = `${data.current.temp_c}°`;\n    condition.textContent = `${data.current.condition.text}`;\n    icons.src = weatherAtmo;\n\n    changeBackgroundColor(data.current.condition.text);\n  } catch (error) {}\n}\ntemp();\n\n\n//# sourceURL=webpack://weather_app/./src/temp.js?");
 
 /***/ }),
 
