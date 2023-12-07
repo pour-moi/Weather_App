@@ -9,6 +9,7 @@ import thunderstormIcon from "../weather_icons/Thunder.svg";
 import partlyCloudyIcon from "../weather_icons/cloud_sunnny.svg";
 import mostlySunnyIcon from "../weather_icons/sunny+cloud.svg";
 import patchyRainPossibleIcon from "../weather_icons/rain+sunny.svg";
+import locationicon from "../weather_icons/18545250741556274015.svg";
 
 export const apiKey = "fe94effad13648a2a69224624230612";
 document
