@@ -36,10 +36,9 @@ img {
   font-family: SF;
 }
 
-.cloud_thunder {
-  /* padding-top:1em; */
+.cloud {
+  margin-top: 3em;
   width: 13em;
-  /* text-align:center; */
 }
 
 /* date */
