@@ -30,7 +30,7 @@ export function getWeatherIcon(weatherCondition) {
     "Patchy rain possible": "../weather_icons/rain+sunny.svg",
   };
 
-  return weatherIcons[weatherCondition];
+  return weatherIcons[weatherCondition] || "../weather_icons/cloudy.svg";
 }
 
 export function changeBackgroundColor(weatherCondition) {
