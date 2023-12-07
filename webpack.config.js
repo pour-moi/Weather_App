@@ -23,6 +23,10 @@ module.exports = {
         test: /\.svg$/,
         use: ["file-loader"],
       },
+      {
+        test: /\.html$/,
+        use: ["html-loader"],
+      },
     ],
   },
 };
