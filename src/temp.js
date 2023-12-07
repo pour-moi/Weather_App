@@ -1,8 +1,8 @@
-const apiKey = "fe94effad13648a2a69224624230612";
-const location = "Addis Ababa";
+export const apiKey = "fe94effad13648a2a69224624230612";
+export const location = "Addis Abeba";
 const apiUrl = `http://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${location}`;
 
-function getWeatherIcon(weatherCondition) {
+export function getWeatherIcon(weatherCondition) {
   const weatherIcons = {
     Sunny: "../weather_icons/sunny.svg",
     Cloudy: "../weather_icons/cloudy.svg",
@@ -14,6 +14,7 @@ function getWeatherIcon(weatherCondition) {
     Thunderstorm: "../weather_icons/Thunder.svg",
     "Partly cloudy": "../weather_icons/cloud_sunnny.svg",
     "Mostly Sunny": "../weather_icons/sunny+cloud.svg",
+    "Patchy rain possible": "../weather_icons/rain+sunny.svg",
   };
 
   return weatherIcons[weatherCondition];
